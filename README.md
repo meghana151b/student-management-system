@@ -1,11 +1,16 @@
 # Student Management System(SpringBoot + MySQL)
 
-**Project Status: In Progress**
-This is a mini backend project built using Spring Boot. It allows you to add, view, and manage student records using a REST API and MySQL database.
+A Spring Boot project to manage student records (Add, Update, Delete, View).
 
-## Tech Stack
--Java
--SpringBoot
--MySQL
--Maven
--Postman
+## Features
+- Add a new student
+- Delete student by roll number
+- Update existing student
+- View all students
+- Connected to MySQL using Spring Data JPA
+
+## Technologies
+- Java
+- Spring Boot
+- Thymeleaf
+- MySQL
